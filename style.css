@@ -55,8 +55,7 @@ html,body {
 .login-form input[type='submit'] {
   width: 50%;
   border-radius: 50px;
-  margin-left: 50%;
-  transform: translateX(-50%);
+  margin: auto;
   border: 2px solid #3ea682;
   cursor: pointer;
   transition: .3s;
